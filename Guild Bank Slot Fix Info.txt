@@ -1,0 +1,2 @@
+replace your Priority.lua in \_retail_\Interface\AddOns\GuildBankSort\Config\Features
+with the one here and you will be up and running again
